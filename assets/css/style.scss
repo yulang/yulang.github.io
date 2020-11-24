@@ -5,3 +5,21 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+// h1 {
+//   // color:tomato;
+//   text-align: center;
+// }
+
+a {
+  color: #b9221f;
+}
+a:link {
+  color: #b9221f;
+}
+a:visited {
+  color: #b9221f;
+}
+a:hover {
+  color: #b9221f;
+}

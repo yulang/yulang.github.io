@@ -15,7 +15,8 @@ I make tutorial videos on modern Tetris. Watch my videos on [Bilibili](https://s
 
 ## Pet
 
-![Mochi](img/mochi.jpg)
+<!-- ![Mochi](img/mochi.jpg) -->
+<img alt="Facebook Logo" src="img/mochi.jpg">
 
 I am a proud dog parent of my 2-year-old Akita. I love hiking and traveling with my dog. 
 

@@ -6,10 +6,10 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
-// h1 {
-//   // color:tomato;
-//   text-align: center;
-// }
+h2 {
+  color:crimson;
+  // text-align: center;
+}
 
 a {
   color: #b9221f;

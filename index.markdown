@@ -65,6 +65,7 @@ layout: home
 </div>
 
 ---
-under construction
 
 ## News
+
+Under construction

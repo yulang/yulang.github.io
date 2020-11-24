@@ -5,6 +5,7 @@ permalink: /teaching
 ---
 
 ## TA
+
 - CMSC 25300 / CMSC 35300 / Statistics 27700 Mathematical Foundations of Machine Learning (Fall 2020) **Head TA**
 
 - STAT 37710 (Spring 2020) Machine Learning (Spring 2020)

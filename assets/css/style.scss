@@ -23,3 +23,8 @@ a:visited {
 a:hover {
   color: #b9221f;
 }
+
+.container-grid {
+  display: grid;
+  grid-template-columns: 20% 80%; /*columns widths*/
+}

@@ -17,12 +17,12 @@ I make tutorial videos on modern Tetris. Watch my videos on [Bilibili](https://s
 
 ![Mochi](img/mochi.jpg)
 
-I am the father of a 2-year-old Akita. I love hiking and traveling with my dog. 
+I am a proud dog parent of my 2-year-old Akita. I love hiking and traveling with my dog. 
 
 ## Badminton
 
-I was professionally trained for five years when I was in elementary school and middle school. I won Men's Single Champion in Uchicago 2019 tournament, and Men's Doubles Champion in Northwestern 2017 tournament.
+I was professionally trained for five years when I was in elementary school and middle school. I won the Men's Single Champion in Uchicago 2019 tournament, and the Men's Doubles Champion in Northwestern 2017 tournament.
 
 ## Blog
 
-I sometimes blog on Medium [@timur-yu](https://timur-yu.medium.com).
+I sometimes blog at Medium [@timur-yu](https://timur-yu.medium.com).

@@ -42,7 +42,8 @@ layout: home
   <div class="col col-2">
     <b>University of Chicago</b>, Chicago, Illinois<BR/>
     Ph.D. in Computer Science, on-going <BR/><BR/>
-    Advisor: <a href="https://aetting.github.io">Prof. Allyson Ettinger</a>
+    Advisor: <a href="https://aetting.github.io">Prof. Allyson Ettinger</a> <BR/>
+    Committee: <a href="https://aetting.github.io">Prof. Allyson Ettinger</a>, <a href="https://yuxinchen.org">Prof. Yuxin Chen</a> and <a href="https://voices.uchicago.edu/willett/">Prof. Rebecca Willett</a>
   </div>
 </div>
 <BR/>
@@ -68,4 +69,12 @@ layout: home
 
 ## News
 
-Under construction
+- **November 2020**. Presented at EMNLP 2020 about my paper ["Assessing Phrasal Representation and Composition in Transformers"](https://www.aclweb.org/anthology/2020.emnlp-main.397.pdf).
+
+- **October 2020**. I have accepted a position as Research Scientist at Facebook.
+
+- **June 2020**. Started a machine learning internship at Facebook Seattle. I was on Public Connections team, working on "Public Figures to Follow" (PFTF).
+
+- **June 2019**. Started a machine learning internship at Facebook Seattle. I was on Page Connections team, working on "People You May Follow" (PYML).
+
+- **January 2019**. Passed my MS thesis defense! MS thesis: "Unsupervised Vocabulary Expansion With Hierarchical Signature Structure"

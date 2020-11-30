@@ -11,7 +11,7 @@ I make tutorial videos on modern Tetris. Watch my videos on [Bilibili](https://s
 
 - Episode 1: Overview of game mechanisms and random algorithms [[bilibili](https://www.bilibili.com/video/BV1PD4y1X7Js)]
 - Episode 2: Quantitative analysis of attack power and defense strategy [[bilibili](https://www.bilibili.com/video/BV16a4y1p7VL)]
-- Episode 3: How to T-spin (Part 1) - [coming soon]
+- Episode 3: How to T-spin (Part 1) - [[bilibili](https://www.bilibili.com/video/BV1Sf4y1v7Sk)]
 
 ## Pet
 

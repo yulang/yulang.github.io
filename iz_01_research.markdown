@@ -10,6 +10,12 @@ Under construction
 
 ## Publications 
 
+- **On the Interplay Between Fine-tuning and Composition in Transformers**
+    
+   **Lang Yu** and Allyson Ettinger
+
+   [Findings of ACL: ACL-IJCNLP 2021] [camera-ready coming soon]
+
 - **Assessing Phrasal Representation and Composition in Transformers**
     
    **Lang Yu** and Allyson Ettinger

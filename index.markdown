@@ -69,7 +69,9 @@ layout: home
 
 ## News
 
-- **April 2020**. Defended my Phd disseration **"Analyzing and Improving Compositionality in Neural Language Models"**!
+- **June 2021**. Officially got my Ph.D.!
+
+- **April 2021**. Defended my Phd disseration **"Analyzing and Improving Compositionality in Neural Language Models"**!
 
 - **November 2020**. Presented at EMNLP 2020 about my paper ["Assessing Phrasal Representation and Composition in Transformers"](https://www.aclweb.org/anthology/2020.emnlp-main.397.pdf).
 

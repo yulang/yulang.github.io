@@ -14,7 +14,7 @@ Under construction
     
    **Lang Yu** and Allyson Ettinger
 
-   [[Findings of ACL: ACL-IJCNLP 2021](https://arxiv.org/pdf/2105.14668.pdf)] [[Code](https://github.com/yulang/fine-tuning-and-composition-in-transformers)]
+   [[Findings of ACL: ACL-IJCNLP 2021](https://arxiv.org/pdf/2105.14668.pdf)] [[Code](https://github.com/yulang/fine-tuning-and-composition-in-transformers)] [[Poster](files/acl_poster.pdf)]
 
 - **Assessing Phrasal Representation and Composition in Transformers**
     

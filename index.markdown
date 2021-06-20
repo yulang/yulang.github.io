@@ -41,7 +41,7 @@ layout: home
   <div class="col col-1"><a href="https://www.uchicago.edu"><img alt="Uchicago Logo" src="img/uchicago.jpeg" width=100></a></div>
   <div class="col col-2">
     <b>University of Chicago</b>, Chicago, Illinois<BR/>
-    Ph.D. in Computer Science, on-going <BR/><BR/>
+    Ph.D. in Computer Science, June 2021 <BR/><BR/>
     Advisor: <a href="https://aetting.github.io">Prof. Allyson Ettinger</a> <BR/>
     Committee: <a href="https://aetting.github.io">Prof. Allyson Ettinger</a>, <a href="https://yuxinchen.org">Prof. Yuxin Chen</a> and <a href="https://voices.uchicago.edu/willett/">Prof. Rebecca Willett</a>
   </div>

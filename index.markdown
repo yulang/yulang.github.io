@@ -29,7 +29,7 @@ layout: home
         <h2> Lang Yu </h2>
         <h3>University of Chicago </h3>
         <h3> Email: langyu at uchicago dot edu </h3>
-        I am a Phd Candidate in Computer Science at the University of Chicago. I do research on NLP and machine learning. I am very fortunate to be advised by <a href="https://aetting.github.io">Prof. Allyson Ettinger</a>. My research focus on composition and interpretability in neural language models.
+        I am a Phd in Computer Science at the University of Chicago. I do research on NLP and machine learning. I am very fortunate to be advised by <a href="https://aetting.github.io">Prof. Allyson Ettinger</a>. My research focus on composition and interpretability in neural language models.
         <p></p>
         I will join Facebook Seattle as a research scientist in 2021.
     </div>

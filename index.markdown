@@ -23,7 +23,7 @@ layout: home
 
 <div class="row">
     <div class="column" style="padding-right: 10px">
-        <img src="img/profile_pic.png" title="Lang" alt="Lang Profile Image">
+        <img src="img/profile_pic.jpg" title="Lang" alt="Lang Profile Image">
     </div>
     <div class="column">
         <h2> Lang Yu </h2>

@@ -21,7 +21,7 @@
 title: Lang Yu / 余浪
 email: langyu at uchicago dot edu
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a Phd Candidate in Computer Science at the University of Chicago. I do research on NLP and machine learning. I love playing badminton and Tetris.
+  I am a Phd in Computer Science at the University of Chicago. I do research on NLP and machine learning. I love playing badminton and Tetris.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: \@langyu94

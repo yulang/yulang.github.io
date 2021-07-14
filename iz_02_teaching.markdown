@@ -6,9 +6,13 @@ permalink: /teaching
 
 ## TA
 
+- CMSC 25400 Machine Learning (Spring 2021)
+
+- STAT 37710 Machine Learning (Winter 2021) **Head TA**
+
 - CMSC 25300 / CMSC 35300 / Statistics 27700 Mathematical Foundations of Machine Learning (Fall 2020) **Head TA**
 
-- STAT 37710 (Spring 2020) Machine Learning (Spring 2020)
+- STAT 37710 Machine Learning (Spring 2020)
 
 - CMSC 15100 Introduction to Computer Science (Winter 2019)
 

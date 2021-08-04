@@ -4,10 +4,6 @@ title: Research
 permalink: /research
 ---
 
-## Experience
-
-Under construction
-
 ## Publications 
 
 - **On the Interplay Between Fine-tuning and Composition in Transformers**

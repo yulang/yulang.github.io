@@ -27,16 +27,14 @@ layout: home
     </div>
     <div class="column">
         <h2> Lang Yu </h2>
-        <h3>University of Chicago </h3>
-        <h3> Email: langyu at uchicago dot edu </h3>
-        I am a Phd in Computer Science at the University of Chicago. I do research on NLP and machine learning. I am very fortunate to be advised by <a href="https://aetting.github.io">Prof. Allyson Ettinger</a>. My research focus on composition and interpretability in neural language models.
-        <p></p>
-        I will join Facebook Seattle as a research scientist in 2021.
+        <h3>Meta </h3>
+        <h3> Email: langyu at fb dot com </h3>
+        I am a Research Scientist at Meta. I got my Phd in Computer Science at the University of Chicago. I do research on NLP and machine learning. I was very fortunate to be advised by <a href="https://aetting.github.io">Prof. Allyson Ettinger</a>. My research focus on composition and interpretability in neural language models.
     </div>
 </div>
 ---
 
-## Education 
+## Education
 <div class="container-grid">
   <div class="col col-1"><a href="https://www.uchicago.edu"><img alt="Uchicago Logo" src="img/uchicago.jpeg" width=100></a></div>
   <div class="col col-2">
@@ -68,6 +66,10 @@ layout: home
 ---
 
 ## News
+
+- **September 2021**. Begun my position as Research Scientist at Meta Seattle.
+
+- **August 2021**. Presented at [Rep4NLP workshop](https://sites.google.com/view/repl4nlp-2021/home) about my ACL Findings paper ["On the Interplay Between Fine-tuning and Composition in Transformers"](https://arxiv.org/pdf/2105.14668.pdf).
 
 - **June 2021**. Officially got my Ph.D.!
 

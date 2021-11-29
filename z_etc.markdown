@@ -8,7 +8,7 @@ The Chinese character of my first name is "浪", which is not very common among 
 
 ![Timur Profile](img/timur.jpeg)
 
-I sometimes go by "Timur" among English-speaking friends. Since my first name "Lang" is not very easy to pronounce, my friends majoring in History came up with this nickname. It comes from ["Timur Lang"](https://en.wikipedia.org/wiki/Timur), who was a Turco-Mongol conqueror and founder of the Timurid Empire. Even though "Lang" means ["lame"](http://www.silk-road.com/artl/timur.shtml) in Persian ("Timur Lang" translates to Timur the Lame), I found the nickname very cool and accepted it.
+I sometimes go by "Timur". Since my first name "Lang" is not very easy to pronounce, my friends majoring in History came up with this nickname. It comes from ["Timur Lang"](https://en.wikipedia.org/wiki/Timur), who was a Turco-Mongol conqueror and founder of the Timurid Empire. Even though "Lang" means ["lame"](http://www.silk-road.com/artl/timur.shtml) in Persian ("Timur Lang" translates to Timur the Lame), I found the nickname very cool and accepted it.
 
 ## Tetris
 

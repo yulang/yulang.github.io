@@ -26,7 +26,7 @@ layout: home
         <img src="img/profile_pic.jpg" title="Lang" alt="Lang Profile Image">
     </div>
     <div class="column">
-        <h2> Lang Yu </h2>
+        <h2> Lang Yu / 余浪 </h2>
         <h3>Meta </h3>
         <h3> Email: langyu at fb dot com </h3>
         I am a Research Scientist at Meta. I got my Phd in Computer Science at the University of Chicago. I do research on NLP and machine learning. I was very fortunate to be advised by <a href="https://aetting.github.io">Prof. Allyson Ettinger</a>. My research focus on composition and interpretability in neural language models.

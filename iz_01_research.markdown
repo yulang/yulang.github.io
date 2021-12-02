@@ -7,7 +7,9 @@ permalink: /research
 ## Publications
 
 - **Analyzing and Improving Compositionality in Neural Language Models**
+
    **Lang Yu**
+
    [[Phd Thesis](https://knowledge.uchicago.edu/record/3009)]
 
 - **On the Interplay Between Fine-tuning and Composition in Transformers**

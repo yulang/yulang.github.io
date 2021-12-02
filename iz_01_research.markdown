@@ -4,16 +4,20 @@ title: Research
 permalink: /research
 ---
 
-## Publications 
+## Publications
+
+- **Analyzing and Improving Compositionality in Neural Language Models**
+   **Lang Yu**
+   [[Phd Thesis](https://knowledge.uchicago.edu/record/3009)]
 
 - **On the Interplay Between Fine-tuning and Composition in Transformers**
-    
+
    **Lang Yu** and Allyson Ettinger
 
    [[Findings of ACL: ACL-IJCNLP 2021](https://arxiv.org/pdf/2105.14668.pdf)] [[Code](https://github.com/yulang/fine-tuning-and-composition-in-transformers)] [[Poster](files/acl_poster.pdf)]
 
 - **Assessing Phrasal Representation and Composition in Transformers**
-    
+
    **Lang Yu** and Allyson Ettinger
 
    [[EMNLP 2020](https://www.aclweb.org/anthology/2020.emnlp-main.397.pdf)] [[Code](https://github.com/yulang/phrasal-composition-in-transformers)] [[Talk](https://slideslive.com/38939299/assessing-phrasal-representation-and-composition-in-transformers)]

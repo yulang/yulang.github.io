@@ -5,6 +5,15 @@ permalink: /employment
 ---
 
 <div class="container-grid">
+  <div class="col col-1"><a href="https://www.facebook.com/facebook"><img alt="Facebook Logo" src="img/meta.jpeg" width=100></a></div>
+  <div class="col col-2">
+    <b>Research Scientist</b>, Sept 2021 - Present <BR/>
+    Seattle, Washington, United States <BR/><BR/>
+    I am currently working for Meta as a research scientist based in Seattle Bellevue.
+  </div>
+</div>
+<BR/>
+<div class="container-grid">
   <div class="col col-1"><a href="https://www.facebook.com/facebook"><img alt="Facebook Logo" src="img/fb.jpeg" width=100></a></div>
   <div class="col col-2">
     <b>Ph.D. Intern</b>, Jun 2020 - Sep 2020 <BR/>

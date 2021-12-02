@@ -4,13 +4,13 @@ layout: default
 
 <div class="home">
   {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
+  <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
   {{ content }}
 
 
-  {% if site.paginate %}
+  <!-- {% if site.paginate %}
     {% assign posts = paginator.posts %}
   {% else %}
     {% assign posts = site.posts %}
@@ -56,6 +56,6 @@ layout: default
       </div>
     {%- endif %}
 
-  {%- endif -%}
+  {%- endif -%} -->
 
 </div>

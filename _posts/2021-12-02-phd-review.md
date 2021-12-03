@@ -7,6 +7,8 @@ This is a long-delayed blog. I have been procrstinating on writing a proper summ
 
 To start off, I would like to point out the post on [being a happier Phd student](https://home.ttic.edu/~kgimpel/etc/phd-advice.pdf) by Prof. Kevin Gimpel. I ran into the post when I took his course, and found a lot of insightful advice.
 
-I got into CS Phd program at University of Chicago right after I graduated from college.
+I got into CS Phd program at University of Chicago right after I graduated from college. Before starting my Phd, I would never image what a long and winding journey it would be. I genuiely
 
 ## Ups and Downs
+
+## If I can start over, I would have...

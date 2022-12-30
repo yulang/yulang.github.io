@@ -6,6 +6,18 @@ permalink: /research
 
 ## Publications
 
+- **Counterfactual reasoning: Do language models need world knowledge for causal understanding?**
+
+   Jiaxuan Li, **Lang Yu**, Allyson Ettinger
+
+   [[nCSI workshop at NeurIPS 2022](https://arxiv.org/abs/2212.03278)]
+
+- **“No, They Did Not”: Dialogue Response Dynamics in Pre-trained Language Models**
+
+   Sanghee J. Kim, **Lang Yu**, Allyson Ettinger
+
+   [[COLING 2022](https://aclanthology.org/2022.coling-1.72/)]
+
 - **Analyzing and Improving Compositionality in Neural Language Models**
 
    **Lang Yu**

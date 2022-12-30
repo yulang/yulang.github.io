@@ -28,7 +28,7 @@ layout: home
     <div class="column">
         <h2> Lang Yu / 余浪 </h2>
         <h3>Meta </h3>
-        <h3> Email: langyu at fb dot com </h3>
+        <h3> Email: langyu at meta dot com </h3>
         I am a Research Scientist at Meta. I am building privacy-preserving ML systems for Facebook Ads. I got my Phd in Computer Science at the University of Chicago. I do research on NLP and machine learning. I was very fortunate to be advised by <a href="https://aetting.github.io">Prof. Allyson Ettinger</a>. My research focus on composition and interpretability in neural language models.
     </div>
 </div>
@@ -66,6 +66,10 @@ layout: home
 ---
 
 ## News
+
+- **December 2022**. ["Counterfactual reasoning: Do language models need world knowledge for causal understanding?"](https://arxiv.org/abs/2212.03278) presented at nCSI workshop at NeurIPS 2022.
+
+- **October 2022**. New paper ["“No, They Did Not”: Dialogue Response Dynamics in Pre-trained Language Models"](https://aclanthology.org/2022.coling-1.72/) presented at COLING 2022.
 
 - **September 2021**. Begun my position as Research Scientist at Meta Seattle.
 

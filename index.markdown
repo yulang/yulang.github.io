@@ -67,6 +67,10 @@ layout: home
 
 ## News
 
+- **September 2023** Joined Ads Core ML Content Understanding team.
+
+- **July 2023** New paper ["Counterfactual reasoning: Testing language models' understanding of hypothetical scenarios"](https://aclanthology.org/2023.acl-short.70.pdf) presented at ACL 2023.
+
 - **December 2022**. ["Counterfactual reasoning: Do language models need world knowledge for causal understanding?"](https://arxiv.org/abs/2212.03278) presented at nCSI workshop at NeurIPS 2022.
 
 - **October 2022**. New paper ["“No, They Did Not”: Dialogue Response Dynamics in Pre-trained Language Models"](https://aclanthology.org/2022.coling-1.72/) presented at COLING 2022.

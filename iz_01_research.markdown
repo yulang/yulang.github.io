@@ -6,6 +6,12 @@ permalink: /research
 
 ## Publications
 
+- **Counterfactual reasoning: Testing language models' understanding of hypothetical scenarios**
+
+   Jiaxuan Li, **Lang Yu**, Allyson Ettinger
+
+   [[ACL 2023](https://aclanthology.org/2023.acl-short.70.pdf)]
+
 - **Counterfactual reasoning: Do language models need world knowledge for causal understanding?**
 
    Jiaxuan Li, **Lang Yu**, Allyson Ettinger

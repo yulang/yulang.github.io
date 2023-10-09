@@ -29,7 +29,8 @@ layout: home
         <h2> Lang Yu / 余浪 </h2>
         <h3>Meta </h3>
         <h3> Email: langyu at meta dot com </h3>
-        I am a Research Scientist at Meta. I am building privacy-preserving ML systems for Facebook Ads. I got my Phd in Computer Science at the University of Chicago. I do research on NLP and machine learning. I was very fortunate to be advised by <a href="https://aetting.github.io">Prof. Allyson Ettinger</a>. My research focus on composition and interpretability in neural language models.
+        I am a Research Scientist at Meta. I am building privacy-preserving ML systems for Facebook Ads. I got my Phd in Computer Science at the University of Chicago. I do research on NLP and machine learning. I was very fortunate to be advised by <a href="https://aetting.github.io">Prof. Allyson Ettinger</a>. My research focus on composition and interpretability in neural language models.<BR/><BR/>
+        <a href="files/cv.pdf">Latest CV</a>
     </div>
 </div>
 ---

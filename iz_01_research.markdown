@@ -47,4 +47,4 @@ permalink: /research
 
    **Lang Yu**, Zhongzhi Luan, Xiangzheng Sun, Zhe Wang, and Hailong Yang
 
-   [[BIBM 2016](https://ieeexplore.ieee.org/document/7822624)]
+   [[BIBM 2016](https://ieeexplore.ieee.org/document/7822624)] [[Paper](files/vina.pdf)]
